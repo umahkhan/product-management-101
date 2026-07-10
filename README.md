@@ -1,6 +1,10 @@
 # The BigCo PM Field Guide
 
-A single-page reference on product management in large technology companies. Open `index.html` in any browser — no build step, no dependencies, no network requests.
+### 📖 **[Read the guide →](https://umahkhan.github.io/product-management-101/)**
+
+A single-page reference on product management in large technology companies. Free to read, no sign-up.
+
+> **Note:** clicking `index.html` above shows you the source code — GitHub doesn't render HTML files. Use the link above to read it. To read it offline, download `index.html` and open it in any browser: no build step, no dependencies, no network requests.
 
 ## What it is
 
